@@ -3,6 +3,9 @@
 ## Overview
 This project aims to provide actionable insights from vast Year-to-Date (YTD) sales data through an interactive Tableau Dashboard. The dashboard encompasses over 115,000 rows of data, focusing on key indicators such as Monthly Sales and Profit. Utilizing various visual elements including donut and bump charts, the dashboard adeptly conveys trends and patterns within the data.
 
+## Tableau Dashboard Link
+[Click here to access the Tableau Dashboard](https://public.tableau.com/views/ECOMMERCESALESDASHBOARDYTDSalesAnalysis/EcommerceSalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Features
 - **Sales and Profit Analysis:** Gain insights into sales and profit trends on a monthly basis.
 - **Interactive Visualizations:** Utilize donut and bump charts to visually explore data patterns.
@@ -24,5 +27,3 @@ Key attributes include:
 
 This dataset serves as a valuable resource for conducting detailed analysis and deriving actionable insights to optimize sales strategies, enhance customer experiences, and improve overall business performance within the ecommerce domain.
 
-## Tableau Dashboard Link
-[Click here to access the Tableau Dashboard](https://public.tableau.com/views/ECOMMERCESALESDASHBOARDYTDSalesAnalysis/EcommerceSalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
